@@ -11,6 +11,6 @@ checksums:
 groups:
   - test
 app:
-  slug: app to remove
+  slug: app to remove 2
   name: app to remove
   description: description
