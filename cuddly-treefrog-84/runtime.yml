@@ -1,0 +1,23 @@
+id: izYOCQB
+name: app to remove
+labels:
+  - test-export
+slug: cuddly-treefrog-84
+description: description
+customDomains: []
+repositories: {}
+photo: >-
+  https://studio.local.prisme.ai:3001/v2/files/izYOCQB/CrDiwJoM4C31xz7czeFNN.smiley-rire.png
+automations:
+  toremove:
+    slug: toremove
+    name: toremove
+    when:
+      endpoint: true
+    do: []
+    output:
+      to: remove
+imports: {}
+runtimeSync:
+  lastRebuildAt: '2026-07-15T13:24:47.886Z'
+generation: 38

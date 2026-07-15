@@ -1,0 +1,7 @@
+slug: toremove
+name: toremove
+when:
+  endpoint: true
+do: []
+output:
+  to: remove

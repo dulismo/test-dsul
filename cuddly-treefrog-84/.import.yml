@@ -1,0 +1,14 @@
+workspaceId: izYOCQB
+version:
+  type: export
+  exportedAt: '2026-07-15T14:04:14.690Z'
+  name: 7-15-2026.1-1784124252998
+checksums:
+  automations:
+    toremove: 588a778b849ae86731eda5a6fac14ea9
+  imports: {}
+  pages: {}
+app:
+  slug: app to remove
+  name: app to remove
+  description: description
