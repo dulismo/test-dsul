@@ -2,6 +2,8 @@ id: izYOCQB
 name: app to remove
 labels:
   - test-export
+  - test1
+  - test2
 slug: cuddly-treefrog-84
 description: description
 customDomains: []
@@ -19,5 +21,5 @@ automations:
       to: remove
 imports: {}
 runtimeSync:
-  lastRebuildAt: '2026-07-15T13:24:47.886Z'
-generation: 38
+  lastRebuildAt: '2026-07-15T14:19:21.642Z'
+generation: 42
