@@ -1,0 +1,15 @@
+workspaceId: 1qvrMbO
+version:
+  type: export
+  exportedAt: '2026-07-15T14:07:05.051Z'
+  name: 7-15-2026.1-1784124423333
+checksums:
+  automations:
+    new-automation: 556824ddc72bc59f0b32f5cee7356ace
+  imports:
+    app to remove 2: 083be4d08e8644f281b990f942478c6a
+    app to remove: 4f192b84be80a043d26488c3269d2699
+  pages: {}
+dependsOn:
+  - app/app to remove 2
+  - app/app to remove

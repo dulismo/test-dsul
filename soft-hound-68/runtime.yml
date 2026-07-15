@@ -1,0 +1,34 @@
+id: 1qvrMbO
+name: test to remove
+labels:
+  - app-builder
+  - test-export
+slug: soft-hound-68
+description: description
+customDomains: []
+repositories: {}
+photo: >-
+  https://studio.local.prisme.ai:3001/v2/files/izYOCQB/CrDiwJoM4C31xz7czeFNN.smiley-rire.png
+automations:
+  new-automation:
+    slug: new-automation
+    name: New Automation
+    do:
+      - app to remove 2.toremove:
+          output: output
+    output: '{{output}}'
+imports:
+  app to remove 2:
+    appSlug: app to remove 2
+    slug: app to remove 2
+    config:
+      foo: bar
+  app to remove:
+    appSlug: app to remove
+    slug: app to remove
+runtimeSync:
+  lastRebuildAt: '2026-07-15T13:22:51.209Z'
+  lastDbGenerationCheckAt: '2026-07-15T13:23:56.152Z'
+generation: 15
+config:
+  value: {}
