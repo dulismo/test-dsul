@@ -2,6 +2,7 @@ id: izYOCQB
 name: app to remove
 labels:
   - test-export
+  - test2
 slug: cuddly-treefrog-84
 description: description
 customDomains: []
