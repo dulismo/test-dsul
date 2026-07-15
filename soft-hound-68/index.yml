@@ -1,9 +1,10 @@
-id: izYOCQB
-name: app to remove
+id: 1qvrMbO
+name: test to remove
 labels:
+  - app-builder
   - test-export
-  - test2
-slug: cuddly-treefrog-84
+  - test1
+slug: soft-hound-68
 description: description
 customDomains: []
 repositories: {}

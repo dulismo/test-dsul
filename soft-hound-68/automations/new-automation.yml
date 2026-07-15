@@ -1,0 +1,6 @@
+slug: new-automation
+name: New Automation
+do:
+  - app to remove 2.toremove:
+      output: output
+output: '{{output}}'
