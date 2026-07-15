@@ -3,6 +3,7 @@ name: test to remove
 labels:
   - app-builder
   - test-export
+  - test2
   - test1
 slug: soft-hound-68
 description: description
