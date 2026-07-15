@@ -3,6 +3,8 @@ name: test to remove
 labels:
   - app-builder
   - test-export
+  - test2
+  - test1
 slug: soft-hound-68
 description: description
 customDomains: []
@@ -26,9 +28,9 @@ imports:
   app to remove:
     appSlug: app to remove
     slug: app to remove
+  unknown:
+    appSlug: unknown
+    slug: unknown
 runtimeSync:
-  lastRebuildAt: '2026-07-15T13:22:51.209Z'
-  lastDbGenerationCheckAt: '2026-07-15T13:23:56.152Z'
-generation: 15
-config:
-  value: {}
+  lastRebuildAt: '2026-07-15T14:19:37.541Z'
+generation: 25
