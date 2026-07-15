@@ -5,7 +5,7 @@ labels:
   - test-export
   - test2
   - test1
-slug: soft-hound-68
+slug: app-consumer
 description: description
 customDomains: []
 repositories: {}
